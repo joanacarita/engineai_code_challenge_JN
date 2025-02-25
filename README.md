@@ -1,6 +1,6 @@
 # :chart_with_upwards_trend: Engine AI Code Challenge
 
-Engine AI Code Challenge by Joana Nunes.
+Engine AI Code Challenge by Joana Nunes - 25/02/2025.
 
 ### Main Contents
  - requirements.txt - list of dependencies
