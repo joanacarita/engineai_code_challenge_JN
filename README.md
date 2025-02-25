@@ -1,8 +1,11 @@
-# :earth_americas: GDP dashboard template
+# :chart_with_upwards_trend: Engine AI Code Challenge
 
-A simple Streamlit app showing the GDP of different countries in the world.
+Engine AI Code Challenge by Joana Nunes.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
+### Main Contents
+ - requirements.txt - list of dependencies
+ - streamlit_app.py - Streamlit app
+ - data_exercise/sql_queries.sql - SQL queries used in the Data Exercise
 
 ### How to run it on your own machine
 
